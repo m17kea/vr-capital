@@ -1,0 +1,17 @@
+C:\Source\vr-capital\vrc.data.console\bin\Debug\vrc.data.console.exe.config
+C:\Source\vr-capital\vrc.data.console\bin\Debug\vrc.data.console.exe
+C:\Source\vr-capital\vrc.data.console\bin\Debug\vrc.data.console.pdb
+C:\Source\vr-capital\vrc.data.console\bin\Debug\Autofac.dll
+C:\Source\vr-capital\vrc.data.console\bin\Debug\vrc.data.app.dll
+C:\Source\vr-capital\vrc.data.console\bin\Debug\vrc.data.interfaces.dll
+C:\Source\vr-capital\vrc.data.console\bin\Debug\vrc.data.bdo.exe
+C:\Source\vr-capital\vrc.data.console\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Source\vr-capital\vrc.data.console\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Source\vr-capital\vrc.data.console\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Source\vr-capital\vrc.data.console\bin\Debug\vrc.data.app.pdb
+C:\Source\vr-capital\vrc.data.console\bin\Debug\vrc.data.interfaces.pdb
+C:\Source\vr-capital\vrc.data.console\bin\Debug\Autofac.xml
+C:\Source\vr-capital\vrc.data.console\bin\Debug\vrc.data.bdo.pdb
+C:\Source\vr-capital\vrc.data.console\obj\Debug\vrc.data.console.csprojResolveAssemblyReference.cache
+C:\Source\vr-capital\vrc.data.console\obj\Debug\vrc.data.console.exe
+C:\Source\vr-capital\vrc.data.console\obj\Debug\vrc.data.console.pdb

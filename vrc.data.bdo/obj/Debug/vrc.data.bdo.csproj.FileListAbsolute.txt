@@ -1,0 +1,6 @@
+C:\Source\vr-capital\vrc.data.bdo\bin\Debug\vrc.data.bdo.exe.config
+C:\Source\vr-capital\vrc.data.bdo\bin\Debug\vrc.data.bdo.exe
+C:\Source\vr-capital\vrc.data.bdo\bin\Debug\vrc.data.bdo.pdb
+C:\Source\vr-capital\vrc.data.bdo\obj\Debug\vrc.data.bdo.csprojResolveAssemblyReference.cache
+C:\Source\vr-capital\vrc.data.bdo\obj\Debug\vrc.data.bdo.exe
+C:\Source\vr-capital\vrc.data.bdo\obj\Debug\vrc.data.bdo.pdb
